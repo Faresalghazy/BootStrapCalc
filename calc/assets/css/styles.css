@@ -1,0 +1,20 @@
+h1 {
+  /*align-items:center;*/
+  width:100%;
+  text-align:center;
+}
+
+#calcoutPar {
+  text-align:center;
+}
+
+.row.calc {
+  align-content:center;
+  align-items:center;
+}
+
+.btn-group, .btn-group-vertical {
+  align-items:center;
+  align-content:center;
+}
+
